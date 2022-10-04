@@ -1,0 +1,1 @@
+draw_sprite_tiled(spr_options_bg,0,global.time/4,global.time/6)

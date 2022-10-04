@@ -1,0 +1,5 @@
+display_set_gui_size(global.screen_w,global.screen_h)
+draw_sprite(spr_logo,0,global.screen_w/2,global.screen_h/2)
+draw_set_halign(fa_center)
+draw_text(global.screen_w/2,global.screen_h/3*2,"Cnintendo")
+draw_reset()

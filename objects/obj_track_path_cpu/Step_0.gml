@@ -1,0 +1,5 @@
+event_inherited()
+lborder_x=x+lengthdir_x(8*image_yscale,image_angle+90)
+lborder_y=y+lengthdir_y(8*image_yscale,image_angle+90)
+rborder_x=x+lengthdir_x(8*image_yscale,image_angle-90)
+rborder_y=y+lengthdir_y(8*image_yscale,image_angle-90)

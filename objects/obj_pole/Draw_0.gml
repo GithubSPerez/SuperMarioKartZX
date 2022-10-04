@@ -1,0 +1,1 @@
+x3d_draw_flat(body,sprite_get_texture(spr_pole,0),x,y,-32,1,2)

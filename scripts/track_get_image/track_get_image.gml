@@ -1,0 +1,1 @@
+return(global.track+(-global.track+global.big_image)*global.track_type)

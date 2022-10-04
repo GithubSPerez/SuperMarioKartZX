@@ -1,0 +1,10 @@
+audio_stop_intro()
+toset=0
+device=0
+input=0
+gname="none"
+display_name="none"
+In=obj_input_manager
+start=0
+pressed=0
+show_list=ds_list_create()

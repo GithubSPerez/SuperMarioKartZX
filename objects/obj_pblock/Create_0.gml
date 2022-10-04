@@ -1,0 +1,13 @@
+index=0
+edit=-1
+e=obj_editor
+mode=1
+step=0
+xc=x
+yc=y
+dir=0
+ins=noone
+lborder_x=x
+lborder_y=y
+rborder_x=x
+rborder_y=y

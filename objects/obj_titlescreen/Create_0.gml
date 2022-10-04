@@ -1,0 +1,9 @@
+x=room_width/2
+y=room_height/4
+menu_open=0
+bg_x=0
+audio_stop_intro()
+audio_stop_all()
+audio_sound_gain(mus_intro,0.5,0)
+audio_play_intro(mus_intro,4.3,18.34)
+alarm[0]=60*4.2

@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_wall,0,0,0,window_get_width()/8,window_get_height()/8,0,c_black,timer/maxtime)

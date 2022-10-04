@@ -1,0 +1,6 @@
+x=e.pblock[index,p_x]
+y=e.pblock[index,p_y]
+image_yscale=e.pblock[index,p_size]
+angle=e.pblock[index,p_direction]
+image_angle=e.pblock[index,p_angle]
+type=e.pblock[index,p_type]

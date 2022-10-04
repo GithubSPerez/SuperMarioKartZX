@@ -1,0 +1,6 @@
+key_right=keyboard_check(ord("D"))
+key_left=keyboard_check(ord("A"))
+key_up=keyboard_check(ord("W"))
+key_jump=keyboard_check_pressed(ord("F"))
+key_item=keyboard_check(ord("G"))
+key_item_press=keyboard_check_pressed(ord("G"))

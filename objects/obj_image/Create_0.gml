@@ -1,0 +1,17 @@
+gpu_set_tex_filter(false)
+spr=spr_pipe
+ded=0
+scale=1
+z=0
+grav=0.1
+deadly=0
+image=0
+vsp=0
+xsp=0
+ysp=0
+xdir=-1
+can_touch=1
+fall=0
+mask_index=spr_mini_pipe
+lag=false
+lagpoint=0

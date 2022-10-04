@@ -1,0 +1,17 @@
+setting=0
+key=0
+name[0]="right"
+name[1]="left"
+name[2]="up"
+name[3]="down"
+name[4]="accelerate"
+name[5]="item"
+name[6]="drem"
+name[7]="drift"
+name[8]="start"
+name[9]="lookback"
+doit=false
+skip=6
+player=0
+active=true
+audio_play_sound(mus_menu,1,true)

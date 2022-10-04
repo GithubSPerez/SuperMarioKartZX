@@ -1,0 +1,1 @@
+body=x3d_create_vplane(32,32)
